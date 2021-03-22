@@ -1,1 +1,1 @@
-Fixing JRA-3
+Refactoring
