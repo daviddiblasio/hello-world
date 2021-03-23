@@ -1,1 +1,1 @@
-Refactoring
+JRA-4 fix
