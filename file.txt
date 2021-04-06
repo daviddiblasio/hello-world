@@ -1,1 +1,1 @@
-Working on JRA-5
+More refactoring
